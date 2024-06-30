@@ -20,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tims-exe&show_icons=true&locale=en&layout=compact" alt="tims-exe" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tims-exe&show_icons=true&locale=en" alt="tims-exe" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tims-exe&" alt="tims-exe" /></p>
